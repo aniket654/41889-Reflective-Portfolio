@@ -28,7 +28,7 @@ Going into class, I had a theory that I could maximise this semester’s results
 
 ### What have I learnt this week?
 
-This week I have learnt about the many-models thinking approach and how it can improve efficiency within various aspects of life and the workforce as well.I ahve also learnt that models make us better thinkers as it allows us to visualise the vast amounts of data we can recieve.
+This week I have learnt about the many-models thinking approach and how it can improve efficiency within various aspects of life and the workforce as well. I have also learnt that models make us better thinkers as it allows us to visualise the vast amounts of data we can recieve.
 
 ### What do I 'now know' that I did not before?
 I now know that I have always used the many-models thinking approach without even realising it. I have used it in my past work experience in the warehouse of a bookstore. I used the model given to me by my manager and organised the books using the thinking approach. This approach helped me think clearer and organise many books in a limited amount of time.
