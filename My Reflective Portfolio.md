@@ -50,3 +50,28 @@ I would use my flash cards that I have made to practise active learning instead 
 
 ### What theory proved to be useful and why? What have I learnt from this?
 My theory that I could maximise this semester’s results by being organised with my notes and assignment dates from day one is still in play and working well. I hypothesize this theory will be useful, and will pay dividends at the end of the semester by achieving good results. I have learnt that it will be more tough than I anticipated due to having to do it for four subjects but I believe I can get through it.
+
+## Week 3
+
+### What have I learnt this week?
+During the course of this week, I have learnt about different models of thinking such as the rational model, behaviorial model and rule-based models. I learnt the different aspects of these models and how they correlate with different scenarios as they all have advantages and disadvantages to them.
+
+### What do I 'now know' that I did not before?
+I have now realised that I usually think in a combination of rational and behaviorial models. I am rational with my money and investments as I want to save and grow whatever wealth I have now, and I am behavioural in scenarios such as going on YouTube when I know that I should be doing work. I also know how these models work and correlate with business decisions as a business may need to change their model depending on what the situation is.
+
+### What insights have I gained?
+Some insights that I have gained include:
+Rational and behavioural models correlate with everyday life 
+There are different models for different scenarios, no "one model fits all" approach
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+A perceived strength that I have observed from past weeks in that I can understand course material by relating it to my past experiences. I was able to do that to an even greater extent this week as I correlated rational and behavioural models to my everyday life. Another strength that I have observed is my ability to conduct further research in my coursework in order to increase my knowledge. A weakness of mine is that I get distracted easily when doing work in general and suffer from the common problem of procrastination. I have very little idea on how to combat this and will research possible solutions to this problem.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Retention of material was still a challenge but was much easier this time around, I handled the problem by making flash cards and going through them every second day or so.
+
+### What would I do better next time and with what anticipated results?
+I would continue to use my flash cards that I have made to practise active learning. The results of this should add up every week as I should be able to hold more course material through practice.
+
+### What theory proved to be useful and why? What have I learnt from this?
+The theory that I had at the start of the semester was that I could maximise this semester’s results by being organised with my notes. I hypothesize this theory will be extremely useful, and I could achieve relatively good results by doing this. I have learnt that it will be less tough and more consistency as my retention is undeniably improving. 
