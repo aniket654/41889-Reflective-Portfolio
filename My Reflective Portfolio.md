@@ -27,7 +27,6 @@ Going into class, I had a theory that I could maximise this semester’s results
 ## Week 2
 
 ### What have I learnt this week?
-
 This week I have learnt about the many-models thinking approach and how it can improve efficiency within various aspects of life and the workforce as well. I have also learnt that models make us better thinkers as it allows us to visualise the vast amounts of data we can recieve.
 
 ### What do I 'now know' that I did not before?
@@ -75,3 +74,48 @@ I would continue to use my flash cards that I have made to practise active learn
 
 ### What theory proved to be useful and why? What have I learnt from this?
 The theory that I had at the start of the semester was that I could maximise this semester’s results by being organised with my notes. I hypothesize this theory will be extremely useful, and I could achieve relatively good results by doing this. I have learnt that it will be less tough and more consistency as my retention is undeniably improving. 
+
+## Week 4
+
+### What have I learnt this week?
+This week I have learnt about system dynamics and network basics. More specifically, the structure of various networks such as centralised, decentralised and distributed as well as the different logic of networks.
+
+### What do I 'now know' that I did not before?
+This week I have realised the importance of feedback through the causal loop diagrams. This has greatly improved my understanding of a system. The causal loop diagram can be shown and explained to anyone as it can graph the natural flow of information and identify any errors or hindrances.
+
+### What insights have I gained?
+A major insight I gained this week was due to the video played in the tutorial which effectively highlighted that the current method of modelling Covid-19 is practically ineffective. This video highlighted that agent-based models are a more effective response when dealing with a real-world issue which has various autonomous agents. 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+My perceived strength continues to be understanding course material by relating it to my past experiences. This was a bit more difficult this week as some concept were a bit more arbitrary, although I feel as though I was still able to retain information effectively. A weakness of mine which I observed is that I get distracted easily when doing work in general and suffer from the common problem of procrastination. I have done research on this topic and am now effectively studying using the Pomodoro technique.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+I used my flashcards in order to practice retention of information this week as well. It was more of a challenge due to some arbitrary concepts although it was done well. Another challenge was learning the basics of Python again. I had learnt Python before but hadn’t used it in a long time and had forgotten most of it. Thus, the revision of the language was refreshing.
+
+### What would I do better next time and with what anticipated results?
+I would continue to use the flashcards that I have made to practise active learning. This should result in a compounding of knowledge throughout the semester. 
+
+### What theory proved to be useful and why? What have I learnt from this?
+The theory of agent-based models was very interesting this week. It was useful as it demonstrated the inadequacies of the current Covid-19 modelling and how it will need to be adapted in the future.
+
+## Week 5
+
+### What have I learnt this week?
+This week I have learnt about aggregating decisions and behaviour. The content learnt this week was based around predicting patterns and behaviour and how to model them. In other words, using logic and algorithms to predict human behaviour in the future based on the past.
+
+### What do I 'now know' that I did not before?
+I now know that human decisions can be modelled using statistics. I also do the “Business Statistics” course which overlapped a lot of the material presented this week such as long-tailed distribution and the addition law. I learnt the use of applying statistics to real-world situations to predict behaviour and future movement.
+
+### What insights have I gained?
+A major insight I gained this week was due to the TED talk presented in class, featuring Geoff West. This TED talk was about the use of power laws in order to predict the lifetimes of cities and businesses. He stated that every business will eventually go on and die out. Even seemingly massive corporations today such as Google, Facebook and Apple will all eventually die out.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+This week, we created the group chat for our group and discussed potential topics, my strength was taking initiative to ask the group which topic they preferred and then having a discussion about the pros and cons for each suggested topic. A weakness this week was again getting distracted although I have implemented various techniques in order to combat this.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+The challenges that I have encountered this week is still the re-learning of Python. This is a challenge which I am willing to take as I am keen to get a good grade for this subject.
+### What would I do better next time and with what anticipated results?
+I would continue to take initiative and initiate conversation within our group chat in order to start working on the assignment properly. Next time I would be more vocal in expressing my opinion and listen to suggestions from group members with an open and clear mind.
+
+### What theory proved to be useful and why? What have I learnt from this?
+The aggregation of behaviours theory proved to be useful this week, this was due to the ability of this theory to predict accurate outcomes of agents in the future. This has various real-world implementations such as recognising potentially threatening behaviours and changing it as early as possible.
